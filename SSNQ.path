@@ -1,0 +1,8 @@
+Q_LICENSE		:= /home/czhu/q
+SPDK_ROOT_DIR	:= /home/czhu/spdk
+SCI_DIR			:= /usr/local/lib
+SSNQ_CONF		:= SSNQ.conf
+SSNQ_HDB_MAPS	:= SSNQ.hdb.maps
+SSNQ_FILE_LIST	:= /tmp/.ssnq_hdb_files
+SSNQ_NVME_SN	:= /tmp/.ssnq_nvme_sn
+SSNQ_DBG_LEVEL	:= 3
